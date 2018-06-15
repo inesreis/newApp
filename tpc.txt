@@ -1,0 +1,19 @@
+1. definir o que queremos extrair do darksky
+
+Apparent (feels-like) temperature
+Humidity
+Temperature
+Wind speed
+precipIntensity
+precipProbability
+
+2. hbs-> procurar partials
+
+http://handlebarsjs.com/partials.html
+
+3. pensar na estrutura da app
+
+
+4. definir o que ta do lado o cliente e do servidor
+
+5. ver bootstrap
